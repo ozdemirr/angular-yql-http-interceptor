@@ -28,3 +28,4 @@ angular.module('your-app-name').config(['$httpProvider', function($httpProvider)
 
 After that, all your http request will be send through YQL.
 
+ONLINE DEMO : http://ozdemirr.github.io/angular-yql-http-interceptor/example/
